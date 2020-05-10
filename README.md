@@ -19,7 +19,7 @@ I applied the data pipeline skills learned to analyze disaster data from Figure 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/ or https://view6914b2f4-3001.udacity-student-workspaces.com/
+3. Go to http://0.0.0.0:3001/ (or you have to modify your link to somehting like this https://SPACEID-3001.SPACEDOMAIN)
 
 ### Screenshots:<a name="screen"></a>
 
