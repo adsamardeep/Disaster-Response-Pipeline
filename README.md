@@ -59,3 +59,7 @@ What the app will do is that it will classify the text message into categories s
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Figure Eight for the data.
+
+ this file should be destory for making
+
+
