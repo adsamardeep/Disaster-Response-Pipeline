@@ -1,7 +1,7 @@
 # Disaster-Response-Pipeline
 I applied the data pipeline skills learned to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. I built a machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
 
-### Table of Content
+### Table of Contents
 
 1. [Instructions](#instructions)
 2. [File Descriptions](#files)
